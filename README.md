@@ -1,2 +1,2 @@
 # first
-# My Future will be very brite
+My Future will be very brite
